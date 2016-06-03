@@ -1,0 +1,5 @@
+DEPTH FIRST TREE TRANVERSE ALGORITHM.
+
+1, Create a method (TreeTranveral(node a, list nodeList)) that accept a parent node, and a static/reference type empty node list.
+2, inside the method, add the node to the list,
+3, Get all the children node of the parent node, and for each child node, make a recursive call of the method to take in the child node and the node list.
